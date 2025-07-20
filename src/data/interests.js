@@ -1,0 +1,16 @@
+export const interestOptions = [
+  "culture",
+  "art",
+  "food",
+  "history",
+  "beach",
+  "relaxation",
+  "nature",
+  "spirituality",
+  "technology",
+  "shopping",
+  "nightlife",
+  "photography",
+  "adventure",
+  "wellness",
+];
